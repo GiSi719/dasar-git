@@ -3,7 +3,7 @@
 zyacbt todo:
 # data modul - tambah  modul
 
-# timer minimal waktu yang dihabiskan siswa saat ujian, jadi semisal siswa sudah selesai setelah 5 menit masih harus menuggu semisal variable timer minimal adalah 30 menit
+# timer minimal waktu yang dihabiskan siswa saat ujian, jadi semisal siswa sudah selesai setelah 5 menit masih harus menuggu semisal variable timer minimal adalah 30 menit ☑✔️
 
 # tambah tipe soal : menjodohkan, dan pilihan ganda kompleks
 
