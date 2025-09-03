@@ -28,3 +28,11 @@ Masuk ke phpmyadmin
 Buat db zyacbt
 Import file sql tanpa database
 Login zyacbt operator dengan admin : admin
+
+
+ALTER TABLE cbt_tes_topik_set
+ADD COLUMN tset_jumlah_pilihan_ganda INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah,
+ADD COLUMN tset_jumlah_essay INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_pilihan_ganda,
+ADD COLUMN tset_jumlah_jawaban_singkat INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_essay,
+ADD COLUMN tset_jumlah_pg_kompleks INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_jawaban_singkat,
+ADD COLUMN tset_jumlah_menjodohkan INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_pg_kompleks;
