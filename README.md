@@ -9,6 +9,16 @@ zyacbt todo:
 
 # pastikan pada analisis butir soal jika salah satu jawaban benar maka isi saja 1 jika tidak ada jawaban yang benar pada soal tsb maka isi 0☑️✔️
 
+# Hentikan tes on off
+
+# Order 
+
+# jawaban singkat masuk evaluasi EZ
+
+# ngorkesi pakai tombol
+
+#FIinal boss : BOBOT NILAI .....
+
 Cara install zyacbt :
 Download dari zyacbt versi 2020.11.27
 Extract ke htdocs
