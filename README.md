@@ -15,9 +15,9 @@ zyacbt todo:
 
 # jawaban singkat masuk evaluasi EZ☑️✔️
 
-# ngorkesi pakai tombol
+# ngorkesi pakai tombol☑️✔️
 
-# FIinal boss : BOBOT NILAI .....
+# EZ boss : BOBOT NILAI ☑️✔️
 
 Cara install zyacbt :
 Download dari zyacbt versi 2020.11.27
