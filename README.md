@@ -19,6 +19,12 @@ zyacbt todo:
 
 # EZ boss : BOBOT NILAI ☑️✔️
 
+# add fitur acak soal per tipe, sesuai pilihan, jadi bisa acak pilihan ganda saja atau dengan tipe lainnya. Jadi misal 1-20 acak (pilihan ganda) 21-25 tidak acak (esai)
+
+# fix hasil tes token operator
+
+# fix rekap hasil tes, pakai nilai akhir
+
 Cara install zyacbt :
 Download dari zyacbt versi 2020.11.27
 Extract ke htdocs
