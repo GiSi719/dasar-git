@@ -27,6 +27,7 @@ zyacbt todo:
 
 # jadi tes itu bisa diduplikat, istilahnya ada tombol duplikat tes, tes nya saja, tidak perlu duplikat hasilnya. Jadi semisal Tes Matematika, tekan tombol duplikat nanti muncul Tes Matematika (Copy) gitu
 
+# bikin menu baru. Contohnya, "evaluasi tes dengan jawaban yg sama". Jadi di menu lain ini evaluasi tes nya di group berdasarkan jawaban yg hampir sama. Contohnya : Black dengan black sama, jadi tinggal koreksi satu aja abis itu ke jawaban yg lain nilainya sama.
 Cara install zyacbt :
 Download dari zyacbt versi 2020.11.27
 Extract ke htdocs
