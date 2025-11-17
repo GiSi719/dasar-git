@@ -47,3 +47,13 @@ ADD COLUMN tset_jumlah_essay INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_piliha
 ADD COLUMN tset_jumlah_jawaban_singkat INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_essay,
 ADD COLUMN tset_jumlah_pg_kompleks INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_jawaban_singkat,
 ADD COLUMN tset_jumlah_menjodohkan INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_pg_kompleks;
+
+# LIST Fitur tambahan
+1. Bantuan penggunaan fitur pada setiap menu
+2. Mode Kolaborasi/Kelompok (siswa dapat membuat kelompok dan mengerjakan cbt secara kerja sama
+3. Penjelasan jawaban di hasil tes, (memberikan penjelasan pada jawaban)
+4. Dark Mode
+5. Fitur Juara
+6. Fitur rata rata untuk tes yang telah murid kerjakan
+7. Fitur template tes
+8. 
