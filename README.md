@@ -49,11 +49,9 @@ ADD COLUMN tset_jumlah_pg_kompleks INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_
 ADD COLUMN tset_jumlah_menjodohkan INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_pg_kompleks;
 
 # LIST Fitur tambahan
-1. Bantuan penggunaan fitur pada setiap menu
-2. Mode Kolaborasi/Kelompok (siswa dapat membuat kelompok dan mengerjakan cbt secara kerja sama
-3. Penjelasan jawaban di hasil tes, (memberikan penjelasan pada jawaban)
-4. Dark Mode
-5. Fitur Juara
-6. Fitur rata rata untuk tes yang telah murid kerjakan
-7. Fitur template tes
-8. **Fitur AI dalam Membuat soal** [**DI REKOMENDASIKAN UNTUK DI APPROVE**] ( cara kerjanya, pilih modul dan topik, setelah itu pilih berapa banyak soal, tipe apa saja, dan nanti tinggal buat promt untuk soalnya, contoh "Buatkan 10 soal pilihan ganda untuk ujia harian matematika kelas 6" nanti akan otomatis soalnya masuk ke data base dan masuk ke dalam topiknya )
+
+3. Penjelasan jawaban di hasil tes, (memberikan penjelasan pada jawaban) AGIL
+
+7. Fitur template tes AGIL
+
+9. **Fitur AI dalam Membuat soal** [**DI REKOMENDASIKAN UNTUK DI APPROVE**] ( cara kerjanya, pilih modul dan topik, setelah itu pilih berapa banyak soal, tipe apa saja, dan nanti tinggal buat promt untuk soalnya, contoh "Buatkan 10 soal pilihan ganda untuk ujia harian matematika kelas 6" nanti akan otomatis soalnya masuk ke data base dan masuk ke dalam topiknya ) GIVO
