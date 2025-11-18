@@ -56,4 +56,4 @@ ADD COLUMN tset_jumlah_menjodohkan INT(11) NOT NULL DEFAULT 0 AFTER tset_jumlah_
 5. Fitur Juara
 6. Fitur rata rata untuk tes yang telah murid kerjakan
 7. Fitur template tes
-8. 
+8. **Fitur AI dalam Membuat soal** [**DI REKOMENDASIKAN UNTUK DI APPROVE**] ( cara kerjanya, pilih modul dan topik, setelah itu pilih berapa banyak soal, tipe apa saja, dan nanti tinggal buat promt untuk soalnya, contoh "Buatkan 10 soal pilihan ganda untuk ujia harian matematika kelas 6" nanti akan otomatis soalnya masuk ke data base dan masuk ke dalam topiknya )
