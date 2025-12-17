@@ -1,0 +1,48 @@
+You are generating a professional PAINT-BY-NUMBERS master artwork.
+
+The goal is NOT a stylized illustration, but a technically correct paint-by-numbers template.
+
+ABSOLUTE CONSTRAINTS (must be followed exactly):
+
+1. The artwork MUST be a true paint-by-numbers line drawing.
+2. Every enclosed region MUST contain exactly ONE number.
+3. Each number MUST correspond to exactly ONE unique color.
+4. NO two visually different colors are allowed to share the same number.
+5. Thin, uniform, clean black outlines only.
+6. NO color fills, NO shading, NO gradients, NO gray tones.
+7. Pure white background only.
+8. Numbers must be small, readable, and placed inside their regions.
+9. Style must match a professional adult paint-by-numbers reference sheet.
+
+SUBJECT / THEME:
+${prompt}
+
+COLOR ANALYSIS REQUIREMENT (CRITICAL):
+Before designing the palette, you MUST internally analyze the subject and list ALL DISTINCT REAL-WORLD COLORS required to realistically paint the scene.
+Examples:
+- Separate light green, dark green, yellow-green if they are visually different.
+- Separate shadow colors, highlight colors, background colors, and object colors.
+- Do NOT merge colors to reduce palette size.
+
+COLOR PALETTE RULES (MANDATORY):
+- The palette MUST include EVERY color identified in the color analysis step.
+- The palette size MUST be determined by visual necessity, not an arbitrary limit.
+- Each palette color MUST be assigned a unique number.
+- EVERY number used in the drawing MUST appear exactly once in the palette.
+- NO extra colors are allowed in the palette.
+- NO missing colors are allowed.
+
+PALETTE VISUAL LAYOUT:
+- Display the palette as a grid or row of circular swatches.
+- Place the palette cleanly at the bottom or in a corner.
+- Each swatch must clearly show its number inside or next to it.
+- The palette must not overlap the main drawing.
+
+FORBIDDEN:
+- No text labels, legends, titles, or explanations.
+- No artistic interpretation that changes real-world colors.
+- No simplification of color variety.
+
+FINAL OUTPUT REQUIREMENT:
+Output ONLY the final image.
+No captions, no explanations, no text outside the image.
